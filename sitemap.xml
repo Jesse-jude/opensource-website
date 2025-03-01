@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://opensource.twitter.dev/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensource.twitter.dev/memberships/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensource.twitter.dev/year-in-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensource.twitter.dev/status/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opensource.twitter.dev/</loc>
+  </url>
+  
+</urlset>
